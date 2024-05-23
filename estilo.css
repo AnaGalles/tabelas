@@ -1,0 +1,22 @@
+.livre{
+    background-color: gray;
+    color: white;
+    border: grey;
+}
+
+th, td {
+    border: 2px solid black; 
+    padding: 2px;
+    text-align: left;
+}
+
+.tabela {
+    border-top: 2px solid red;  
+    border-right: 2px solid red; 
+    border-bottom: 2px solid red;
+    border-left: 2px solid red;   
+}
+
+.centro{
+    text-align: center;
+}

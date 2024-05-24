@@ -20,3 +20,7 @@ th, td {
 .centro{
     text-align: center;
 }
+
+.borda{
+    border: 2px solid;
+}

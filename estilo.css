@@ -24,3 +24,19 @@ th, td {
 .borda{
     border: 2px solid;
 }
+
+.titulo{
+    text-align: center;
+    background-color: limegreen;
+    font-size: 25px;
+}
+
+.coluna{
+    text-align: center;
+    background-color: darkcyan;
+}
+
+.titulo2{
+    text-align: center;
+    background-color: darkgray;
+}

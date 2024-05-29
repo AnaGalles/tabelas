@@ -40,3 +40,14 @@ th, td {
     text-align: center;
     background-color: darkgray;
 }
+
+.titulo3{
+    text-align: center;
+    background-color: cornflowerblue;
+}
+
+.cursos{
+    text-align: center;
+    background-color: palevioletred;
+    font-size: 25px;
+}
